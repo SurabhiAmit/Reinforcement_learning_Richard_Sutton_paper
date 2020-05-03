@@ -1,3 +1,5 @@
+Implementation of the experiments in Richard Sutton(father of reinforcement learning)'s famous paper in which he introduces the concept of reinforcement learning to understand the nuances of this machine learning technique.
+
 How to run the source code?
 
 1. Open project1.py in IDE like PyCharm and click 'Run'.
