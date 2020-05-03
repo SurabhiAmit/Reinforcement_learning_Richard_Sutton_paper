@@ -2,8 +2,7 @@ Implementation of the experiments in Richard Sutton(father of reinforcement lear
 
 How to run the source code?
 
-1. Open project1.py in IDE like PyCharm and click 'Run'.
-2. Or, on command prompt, go to the location where project1.py is stored and type "project1.py" and hit Enter key.
+1. Open implementation.py in IDE like PyCharm and click 'Run'.
 2. The experiment 1 graph (Figure 3 in Sutton paper) gets generated.
 3. On closing the graph, experiment 2 graph (Figure 4 in Sutton paper) gets generated.
 4. On closing this graph window, the graph corresponding to Figure 5 in Sutton paper gets generated.
